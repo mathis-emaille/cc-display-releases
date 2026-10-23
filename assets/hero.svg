@@ -69,7 +69,7 @@
     <text x="16" y="76" fill="#9696a0" font-size="10.5">5 heures</text>
     <text x="254" y="76" fill="#ebebf0" font-size="10.5" text-anchor="end">42 %</text>
     <rect x="16" y="82" width="238" height="8" rx="4" fill="#373740"/>
-    <rect x="16" y="82" width="35.7" height="8" rx="4.0" fill="#22c55e"><animate attributeName="width" dur="20s" repeatCount="indefinite" values="35.7;130.9;35.7" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></rect>
+    <rect x="16" y="82" width="100" height="8" rx="4" fill="#22c55e"/>
     <text x="16" y="110" fill="#9696a0" font-size="10.5">7 jours</text>
     <text x="254" y="110" fill="#ebebf0" font-size="10.5" text-anchor="end">18 %</text>
     <rect x="16" y="116" width="238" height="6" rx="3" fill="#373740"/>
