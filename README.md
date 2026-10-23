@@ -1,4 +1,4 @@
-# CC Display Companion — téléchargements
+# CC Display Companion - téléchargements
 
 Installeurs de **CC Display Companion**, l'app Windows qui affiche l'usage Claude / OpenAI dans un widget toujours visible et sur le boîtier CC Display.
 
